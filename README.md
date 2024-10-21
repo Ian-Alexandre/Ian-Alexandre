@@ -17,7 +17,7 @@ I am a software engineering student.</br>
 
 
 ![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Alexandre&theme=tokyonight) 
-![TOP Langs](https://github-readme-stats.vercel.app/api?username=Ian-Alexandre&theme=tokyonight)
+![TOP Langs](https://github-readme-stats.vercel.app/api?username=ninzinhu&theme=tokyonight)
 
 
 ## Tech Stack:
