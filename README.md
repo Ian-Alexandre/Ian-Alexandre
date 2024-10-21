@@ -7,6 +7,8 @@
  
 ## About me
 I am a software engineering student.</br>
+Social</br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ianrimar_/)
 <br />
 
 ## Characteristics
