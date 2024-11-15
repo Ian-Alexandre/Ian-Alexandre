@@ -20,12 +20,12 @@ I am a software engineering student.</br>
   <tr>
     <td align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ninzinhu&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ian-Alexandre&theme=dracula&utcOffset=-3" alt="GitHub Commits"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ninzinhu&theme=dracula" alt="GitHub Details"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ian-Alexandre&theme=dracula" alt="GitHub Details"/>
       </a>
     </td>
   </tr>
