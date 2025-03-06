@@ -14,6 +14,8 @@ I am a software engineering student.</br>
 - English 🌎
 <br />
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div style="text-align: center;">
 
 <table align="center">
@@ -46,6 +48,18 @@ I am a software engineering student.</br>
 </a>
   <br />
 
+  </div>
+
+<br />
+<br />
+
+
+
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=Ian-Alexandre&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
 
 <!-- ## Tech Stack: ANTIGO
