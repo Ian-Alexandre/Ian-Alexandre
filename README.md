@@ -44,7 +44,7 @@ I am a software engineering student.</br>
 ## Tech Stack:
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,java,javascript,lua,php,linux,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,java,javascript,lua,react,php,linux,mongodb,mysql" />
 </a>
   <br />
 
