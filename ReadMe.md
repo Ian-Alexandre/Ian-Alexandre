@@ -1,7 +1,7 @@
 # 💫 About Me:
 Code👩🏻‍💻<br>Money💸<br>English🌎
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianrmm_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimarcode@gmail.com) 
