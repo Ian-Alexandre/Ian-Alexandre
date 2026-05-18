@@ -20,26 +20,9 @@
 ###
 
 <p>
-  Come check out my social media. <br><br>
-
-  My Instagram:
-  <a href="https://www.instagram.com/ianrimar_/" target="_blank">
-    @ianrimar_
-  </a>
-
-  <br><br>
-
-  My Website:
-  <a href="https://rmcodedev.com.br/" target="_blank">
-    RmCodeDev
-  </a>
-
-  <br><br>
-
-  My LinkedIn:
-  <a href="https://www.linkedin.com/in/ian-alexandre-116600190/" target="_blank">
-    Ian Alexandre
-  </a>
+  <a href="https://www.instagram.com/ianrimar_/" target="_blank">@ianrimar_</a>,
+  <a href="https://rmcodedev.com.br/" target="_blank">RmCodeDev</a>,
+  <a href="https://www.linkedin.com/in/ian-alexandre-116600190/" target="_blank">LinkedIn</a>
 </p>
 
 ###
