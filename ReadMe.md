@@ -20,19 +20,27 @@
 ###
 
 <p>
-  Come check out my social media. <br>
+  Come check out my social media. <br><br>
+
   My Instagram:
   <a href="https://www.instagram.com/ianrimar_/" target="_blank">
     @ianrimar_
   </a>
+
+  <br><br>
+
+  My Website:
+  <a href="https://rmcodedev.com.br/" target="_blank">
+    RmCodeDev
+  </a>
+
+  <br><br>
+
+  My LinkedIn:
+  <a href="https://www.linkedin.com/in/ian-alexandre-116600190/" target="_blank">
+    Ian Alexandre
+  </a>
 </p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=RmCodeDev&logo=RmCodeDev&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="RmCodeDev logo"  />
-</div>
 
 ###
 
