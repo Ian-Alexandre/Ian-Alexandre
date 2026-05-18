@@ -4,7 +4,7 @@ Code👩🏻‍💻<br>Money💸<br>English🌎
 <!-- ![Status](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimarcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rimarcode@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ianrimar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ianalexandre04@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -43,8 +43,8 @@ Code👩🏻‍💻<br>Money💸<br>English🌎
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ian-Alexandre&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ian-Alexandre&limit=5&theme=radical&combine_all_yearly_contributions=true)
