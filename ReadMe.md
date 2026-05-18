@@ -4,16 +4,15 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java" />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP" />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS" />
 </div>
 
