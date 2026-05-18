@@ -19,6 +19,15 @@
 
 ###
 
+<h2>
+  Come check out my social media. <br>
+  My Instagram:
+  <a href="https://www.instagram.com/ianrimar_/" target="_blank">
+    @ianrimar_
+  </a>
+</h2>
+
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
