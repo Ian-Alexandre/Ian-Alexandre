@@ -19,13 +19,13 @@
 
 ###
 
-<h2>
+<p>
   Come check out my social media. <br>
   My Instagram:
   <a href="https://www.instagram.com/ianrimar_/" target="_blank">
     @ianrimar_
   </a>
-</h2>
+</p>
 
 
 <div align="center">
